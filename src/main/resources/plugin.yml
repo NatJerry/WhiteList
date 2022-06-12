@@ -1,0 +1,6 @@
+name: WhiteList
+version: '${project.version}'
+main: github.ncc.Main
+api-version: 1.15
+authors: [ NaT_Jerry ]
+description: WhiteList Plugin
